@@ -1,0 +1,110 @@
+body {
+ 	
+overflow:auto;
+	font-family: Arial, Helvetica, sans-serif;
+	
+}
+#logo{
+ 
+width:337px;
+height:183px;
+position:relative;
+
+ 
+}
+ 
+body,td,th {
+	color:back;
+}
+td {
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+th {
+	font-family: Arial, Helvetica, sans-serif;
+}
+#table_e{
+
+padding:5px;
+
+position:relative;
+text-align:right;
+
+}
+
+#loginform{
+	width:623px;
+	
+	position:relative;
+	margin:20px auto;
+	top:50px;
+	padding:5px;
+	height: 304px;
+
+}
+.errors{
+color:red;
+text-align:left;}
+
+ 
+nav ul li{
+ 
+
+ float:left;
+list-style:none;
+position:relative;
+}
+ 
+
+nav ul li a{
+color:#333333;
+text-decoration:none;
+padding:10px;
+display:block;
+float:none;
+}
+
+#sub{
+  display:none;
+background-color:#999999;
+position:absolute;
+ 
+/*float:right;*/
+ width:10em;
+ 
+  }
+  #sub li a{
+
+  display:block;
+  }
+  nav li:hover #sub{
+
+  display:block;
+  
+  }
+#catalog{
+width:44px;
+height:40px;
+}
+#center{
+ 
+border:solid 1px #000000;
+	position:relative;
+	margin:20px auto;
+	width:55em;
+	 
+	 
+
+}
+table img{
+width:150px;
+height:150px;
+}
+ #checkout{
+ 
+width:50em;
+}
+#loginLinks input [type="text"]{
+color:#FFFFFF;
+width:25px;
+}
