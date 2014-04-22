@@ -4,17 +4,37 @@
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
  <meta name="viewport" content="width=device-width, initial-scale=1">
  
+<<<<<<< HEAD
  
+=======
+<link href="../scripts/boot/css/bootstrap.min.css" rel="stylesheet">
+>>>>>>> fb88b2f49c59f10febcda2214ff54759507b8db9
 <script src="../scripts/Jpassword.js" ></script>
 
 <script src="../scripts/Jrecovery.js" ></script>
 
 <script src="../scripts/jquery-1.9.1.js" ></script>
+<<<<<<< HEAD
 <link href="../scripts/css/myStyle.css" rel="stylesheet">
 <link href="../scripts/css/bootstrap.css" rel="stylesheet" >
 
 <style type="text/css" >
  
+=======
+ <script src="../scripts/boot/jquery.min.js"></script>
+ <script src="../scripts/boot/js/bootstrap.min.js"></script>
+
+<style type="text/css" >
+body{
+ }
+ #hiddenRow{
+ background-color:#999999;
+ display:none;
+ }
+ #tableRecovery{
+ 
+ width:40em;}
+>>>>>>> fb88b2f49c59f10febcda2214ff54759507b8db9
  
  
  
@@ -26,6 +46,7 @@
 
 <body>
 <div class="container">
+<<<<<<< HEAD
 	 
 		 
 		 <form>
@@ -34,6 +55,16 @@
 				
 				<td><label>Email</label></td><td><input type="text" name="email" id="email"/></td>
 				 
+=======
+	<div class="row">
+		<div class="col-md-6 col-xs-5"  >
+		 
+		 <form>
+			  <table id="tableRecovery">
+				<tr>
+				
+				<td><label>Email</label></td><td><input type="text" name="email" id="email"/></td>
+>>>>>>> fb88b2f49c59f10febcda2214ff54759507b8db9
 				<td><label>Rest password</label>
 				<input type="radio" name="rest" id="restNew" value="rest" />
 				</td>
@@ -56,7 +87,12 @@
 				
 			  </table>
 		  </form>
+<<<<<<< HEAD
 	   
+=======
+	  </div>
+	</div>
+>>>>>>> fb88b2f49c59f10febcda2214ff54759507b8db9
 
 
 

@@ -19,7 +19,11 @@
       <td><div id="check"></div></td>
     </tr>
     <tr>
+<<<<<<< HEAD
       <td><a href="../register/intregistration.php">Click here to register </a></td>
+=======
+      <td><a href="../register/registration.php">Click here to register </a></td>
+>>>>>>> fb88b2f49c59f10febcda2214ff54759507b8db9
       
     </tr>
   </table>
