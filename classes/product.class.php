@@ -3,6 +3,7 @@
 class get_music{
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 	private $genre;
 
@@ -55,6 +56,8 @@ class get_music{
 
 
 =======
+=======
+>>>>>>> d574e4c8834c7336adb7485f3e445f85eede7990
 require"../host/host.php";
 	private $genre;
 
@@ -73,6 +76,9 @@ $data = mysql_query("Select * from  Structure product_inventory where Product_na
 
 
 }
+<<<<<<< HEAD
+>>>>>>> d574e4c8834c7336adb7485f3e445f85eede7990
+=======
 >>>>>>> d574e4c8834c7336adb7485f3e445f85eede7990
 
 

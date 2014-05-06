@@ -1,5 +1,6 @@
 <?php
 <<<<<<< HEAD
+<<<<<<< HEAD
  
 ?>
   
@@ -17,6 +18,8 @@
 									<li><a href="../catalog/product.php ? prod_id=Country Music">COUNTRY</a></li>
 									<li><a href="../catalog/product.php ? prod_id=Surf Rock and Psychedelic">SURF ROCK</a></li>
 =======
+=======
+>>>>>>> d574e4c8834c7336adb7485f3e445f85eede7990
 
 
 ?>
@@ -30,6 +33,9 @@
 									<ul id=sub>
 									<li> <a href="../all/rocknroll.php">Rock And Roll </a></li>
 									<li><a href="../all/rnb.php">RNB</a></li>
+<<<<<<< HEAD
+>>>>>>> d574e4c8834c7336adb7485f3e445f85eede7990
+=======
 >>>>>>> d574e4c8834c7336adb7485f3e445f85eede7990
 									</ul>
 								</li> 
@@ -38,7 +44,10 @@
 								<li><a href="../transactions/services.php">Services</a></li>
 								<li><a href="../transactions/payments.php">Payments</a></li>
 <<<<<<< HEAD
+<<<<<<< HEAD
 								<li><a href="../all/intBlog.php">Blog Community</a></li>
+=======
+>>>>>>> d574e4c8834c7336adb7485f3e445f85eede7990
 =======
 >>>>>>> d574e4c8834c7336adb7485f3e445f85eede7990
 								<li><a href="../all/about.php">About us</a></li>
@@ -48,9 +57,12 @@
 									
 		</nav>		 
 <<<<<<< HEAD
+<<<<<<< HEAD
 	 				 
  
 =======
+=======
+>>>>>>> d574e4c8834c7336adb7485f3e445f85eede7990
 					
 					 
 			
@@ -68,4 +80,7 @@
 
 </div>
 >>>>>>> fb88b2f49c59f10febcda2214ff54759507b8db9
+<<<<<<< HEAD
+>>>>>>> d574e4c8834c7336adb7485f3e445f85eede7990
+=======
 >>>>>>> d574e4c8834c7336adb7485f3e445f85eede7990

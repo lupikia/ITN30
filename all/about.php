@@ -4,7 +4,11 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link href="../scripts/css/myStyle.css" rel="stylesheet">
 <<<<<<< HEAD
+<<<<<<< HEAD
 
+=======
+<link href="../scripts/css/bootstrap.css" rel="stylesheet" >
+>>>>>>> d574e4c8834c7336adb7485f3e445f85eede7990
 =======
 <link href="../scripts/css/bootstrap.css" rel="stylesheet" >
 >>>>>>> d574e4c8834c7336adb7485f3e445f85eede7990
@@ -20,6 +24,7 @@
 </head>
 
 <body>
+<<<<<<< HEAD
 <<<<<<< HEAD
 
  <?php
@@ -38,6 +43,10 @@ Our offices are suited in.
 Our60's its online commerce business. Co founded by Zoleka Mthabela and David Ndlovhu in 2014. That distributes the 1960's music CDs for music stores. We have chosen this decade because most of the music revolution took place. Our collection categories of music include Rhythms n Blues, Hip hop, Rock 'n Roll, Jazz, gospel, Reggae and Pop. 
 ";
 
+=======
+<?php
+require"../reuse_code/toplinks.php";
+>>>>>>> d574e4c8834c7336adb7485f3e445f85eede7990
 =======
 <?php
 require"../reuse_code/toplinks.php";

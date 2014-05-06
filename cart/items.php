@@ -19,6 +19,7 @@ echo "<h3> ". $itemdescription['Product_artist'] ."(".  $itemdescription['Produc
 echo "<h3> Product description</h3>";
 echo "<p> " .$itemdescription['Product_Des'] ."</p> ";
 <<<<<<< HEAD
+<<<<<<< HEAD
 echo  "<p> Price:R" .$itemdescription['Prices'] ."</p> ";
 echo "<label>Quality:</label>Quantity 
 	<select id=quantity>
@@ -35,6 +36,8 @@ $_SESSION['price']=$itemdescription['Prices'];
 echo "<input type=button name=add class=close-btn  value=Add onclick=addCart2(" . "$itemdescription[Product_num]" ."); />";
  
 =======
+=======
+>>>>>>> d574e4c8834c7336adb7485f3e445f85eede7990
 echo  "<p> Price:R" .$itemdescription['Product_balance'] ."</p> ";
 echo "<label>Quality:</label><input type='text'  id='quantity'  />" ;
 
@@ -43,6 +46,9 @@ $_SESSION['price']=$itemdescription['Product_balance'];
 
 echo "<input type=button name=add value=Add onclick=addCart2(" . "$itemdescription[Product_num]" ."); />";
 
+<<<<<<< HEAD
+>>>>>>> d574e4c8834c7336adb7485f3e445f85eede7990
+=======
 >>>>>>> d574e4c8834c7336adb7485f3e445f85eede7990
 
 $_SESSION['$arrayProduct']  = $itemdescription;

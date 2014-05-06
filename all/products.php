@@ -1,6 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
+>>>>>>> d574e4c8834c7336adb7485f3e445f85eede7990
+=======
 >>>>>>> d574e4c8834c7336adb7485f3e445f85eede7990
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
@@ -38,7 +41,10 @@
 </body>
 </html>
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> d574e4c8834c7336adb7485f3e445f85eede7990
 =======
 
 <?php
@@ -71,4 +77,7 @@ class products{
 
 ?>
 >>>>>>> fb88b2f49c59f10febcda2214ff54759507b8db9
+<<<<<<< HEAD
+>>>>>>> d574e4c8834c7336adb7485f3e445f85eede7990
+=======
 >>>>>>> d574e4c8834c7336adb7485f3e445f85eede7990

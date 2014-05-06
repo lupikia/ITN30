@@ -21,7 +21,11 @@ require"../reuse_code/toplinks.php";
 ?>
 
 <<<<<<< HEAD
+<<<<<<< HEAD
  
+=======
+ <div  class="container">
+>>>>>>> d574e4c8834c7336adb7485f3e445f85eede7990
 =======
  <div  class="container">
 >>>>>>> d574e4c8834c7336adb7485f3e445f85eede7990
@@ -43,7 +47,11 @@ require"../reuse_code/toplinks.php";
 				</tr>
 			</table>
 <<<<<<< HEAD
+<<<<<<< HEAD
  <form name = "form" action = "" method="post">
+=======
+ 
+>>>>>>> d574e4c8834c7336adb7485f3e445f85eede7990
 =======
  
 >>>>>>> d574e4c8834c7336adb7485f3e445f85eede7990
@@ -66,7 +74,11 @@ require"../reuse_code/toplinks.php";
 				</tr>
 				<tr>
 <<<<<<< HEAD
+<<<<<<< HEAD
 				<th> </th> <th><input type="submit"  name = "submit" value="Send" /></th>
+=======
+				<th> </th> <th><input type="button" value="Send" /></th>
+>>>>>>> d574e4c8834c7336adb7485f3e445f85eede7990
 =======
 				<th> </th> <th><input type="button" value="Send" /></th>
 >>>>>>> d574e4c8834c7336adb7485f3e445f85eede7990
@@ -76,8 +88,13 @@ require"../reuse_code/toplinks.php";
 			</table>
 			 
 <<<<<<< HEAD
+<<<<<<< HEAD
  </form>
  
+=======
+ 
+ </div>
+>>>>>>> d574e4c8834c7336adb7485f3e445f85eede7990
 =======
  
  </div>

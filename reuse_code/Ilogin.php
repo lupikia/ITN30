@@ -23,7 +23,12 @@
       <td><a href="../register/intregistration.php">Click here to register </a></td>
 =======
 <<<<<<< HEAD
+<<<<<<< HEAD
       <td><a href="../register/intregistration.php">Click here to register </a></td>
+=======
+      <td><a href="../register/registration.php">Click here to register </a></td>
+>>>>>>> fb88b2f49c59f10febcda2214ff54759507b8db9
+>>>>>>> d574e4c8834c7336adb7485f3e445f85eede7990
 =======
       <td><a href="../register/registration.php">Click here to register </a></td>
 >>>>>>> fb88b2f49c59f10febcda2214ff54759507b8db9

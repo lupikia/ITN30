@@ -8,7 +8,12 @@
  
 =======
 <<<<<<< HEAD
+<<<<<<< HEAD
  
+=======
+<link href="../scripts/boot/css/bootstrap.min.css" rel="stylesheet">
+>>>>>>> fb88b2f49c59f10febcda2214ff54759507b8db9
+>>>>>>> d574e4c8834c7336adb7485f3e445f85eede7990
 =======
 <link href="../scripts/boot/css/bootstrap.min.css" rel="stylesheet">
 >>>>>>> fb88b2f49c59f10febcda2214ff54759507b8db9
@@ -19,8 +24,11 @@
 
 <script src="../scripts/jquery-1.9.1.js" ></script>
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
+>>>>>>> d574e4c8834c7336adb7485f3e445f85eede7990
+=======
 >>>>>>> d574e4c8834c7336adb7485f3e445f85eede7990
 <link href="../scripts/css/myStyle.css" rel="stylesheet">
 <link href="../scripts/css/bootstrap.css" rel="stylesheet" >
@@ -28,7 +36,10 @@
 <style type="text/css" >
  
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> d574e4c8834c7336adb7485f3e445f85eede7990
 =======
  <script src="../scripts/boot/jquery.min.js"></script>
  <script src="../scripts/boot/js/bootstrap.min.js"></script>
@@ -44,6 +55,9 @@ body{
  
  width:40em;}
 >>>>>>> fb88b2f49c59f10febcda2214ff54759507b8db9
+<<<<<<< HEAD
+>>>>>>> d574e4c8834c7336adb7485f3e445f85eede7990
+=======
 >>>>>>> d574e4c8834c7336adb7485f3e445f85eede7990
  
  
@@ -57,8 +71,11 @@ body{
 <body>
 <div class="container">
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
+>>>>>>> d574e4c8834c7336adb7485f3e445f85eede7990
+=======
 >>>>>>> d574e4c8834c7336adb7485f3e445f85eede7990
 	 
 		 
@@ -69,7 +86,10 @@ body{
 				<td><label>Email</label></td><td><input type="text" name="email" id="email"/></td>
 				 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> d574e4c8834c7336adb7485f3e445f85eede7990
 =======
 	<div class="row">
 		<div class="col-md-6 col-xs-5"  >
@@ -80,6 +100,9 @@ body{
 				
 				<td><label>Email</label></td><td><input type="text" name="email" id="email"/></td>
 >>>>>>> fb88b2f49c59f10febcda2214ff54759507b8db9
+<<<<<<< HEAD
+>>>>>>> d574e4c8834c7336adb7485f3e445f85eede7990
+=======
 >>>>>>> d574e4c8834c7336adb7485f3e445f85eede7990
 				<td><label>Rest password</label>
 				<input type="radio" name="rest" id="restNew" value="rest" />
@@ -107,7 +130,13 @@ body{
 	   
 =======
 <<<<<<< HEAD
+<<<<<<< HEAD
 	   
+=======
+	  </div>
+	</div>
+>>>>>>> fb88b2f49c59f10febcda2214ff54759507b8db9
+>>>>>>> d574e4c8834c7336adb7485f3e445f85eede7990
 =======
 	  </div>
 	</div>

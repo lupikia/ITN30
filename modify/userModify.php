@@ -6,10 +6,13 @@ require "../classes/recover.class.php";
 $fixEmail = new User_pasword($_POST['email'],$_POST['']);
 =======
 <<<<<<< HEAD
+<<<<<<< HEAD
 require "../classes/recover.class.php";
 
 $fixEmail = new User_pasword($_POST['email'],$_POST['']);
 =======
+=======
+>>>>>>> d574e4c8834c7336adb7485f3e445f85eede7990
 class User_pasword{
 
 private $user_email;
@@ -69,6 +72,9 @@ function find_email($email)
 }
 
 >>>>>>> fb88b2f49c59f10febcda2214ff54759507b8db9
+<<<<<<< HEAD
+>>>>>>> d574e4c8834c7336adb7485f3e445f85eede7990
+=======
 >>>>>>> d574e4c8834c7336adb7485f3e445f85eede7990
 
 

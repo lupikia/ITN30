@@ -19,9 +19,14 @@
 }
 body{
 <<<<<<< HEAD
+<<<<<<< HEAD
  
 
    /* background:#f4f4f4 url(../img/escheresque.png) repeat top left;*/
+=======
+
+    background:#f4f4f4 url(../img/escheresque.png) repeat top left;
+>>>>>>> d574e4c8834c7336adb7485f3e445f85eede7990
 =======
 
     background:#f4f4f4 url(../img/escheresque.png) repeat top left;
@@ -641,7 +646,10 @@ a:hover {
 
 .container {
 <<<<<<< HEAD
+<<<<<<< HEAD
 
+=======
+>>>>>>> d574e4c8834c7336adb7485f3e445f85eede7990
 =======
 >>>>>>> d574e4c8834c7336adb7485f3e445f85eede7990
     margin-right: auto;

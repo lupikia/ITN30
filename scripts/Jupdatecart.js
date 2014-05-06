@@ -9,7 +9,11 @@ function addCart(sku) {
 		data:{skuNO:sku},
 		success: function(data){
 <<<<<<< HEAD
+<<<<<<< HEAD
 		$('.overlay-content').html(data);
+=======
+		$('#confirmCart').html(data);
+>>>>>>> d574e4c8834c7336adb7485f3e445f85eede7990
 =======
 		$('#confirmCart').html(data);
 >>>>>>> d574e4c8834c7336adb7485f3e445f85eede7990

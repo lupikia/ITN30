@@ -1,9 +1,13 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 <?php
  
 
 
 ?>
+=======
+
+>>>>>>> d574e4c8834c7336adb7485f3e445f85eede7990
 =======
 
 >>>>>>> d574e4c8834c7336adb7485f3e445f85eede7990
@@ -14,12 +18,16 @@
 <title>Products</title>
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 <link href="../scripts/css/myStyle.css" rel="stylesheet">
 <script src="../scripts/jquery-1.9.1.js"></script>
 
 <script src="../scripts/Jblog.js"></script>
 
 
+=======
+<link rel="stylesheet" type="text/css" href="../styling/style.css"/>
+>>>>>>> d574e4c8834c7336adb7485f3e445f85eede7990
 =======
 <link rel="stylesheet" type="text/css" href="../styling/style.css"/>
 >>>>>>> d574e4c8834c7336adb7485f3e445f85eede7990
@@ -30,6 +38,7 @@
 </head>
 
 <body>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <div id="centerbox">
 <?php
@@ -68,6 +77,8 @@
 
 </div>
 =======
+=======
+>>>>>>> d574e4c8834c7336adb7485f3e445f85eede7990
 
 <div class="Container">
 
@@ -93,6 +104,9 @@
 </div>
 
 
+<<<<<<< HEAD
+>>>>>>> d574e4c8834c7336adb7485f3e445f85eede7990
+=======
 >>>>>>> d574e4c8834c7336adb7485f3e445f85eede7990
 </body>
 </html>

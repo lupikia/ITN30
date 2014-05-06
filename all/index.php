@@ -1,5 +1,8 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 
+=======
+>>>>>>> d574e4c8834c7336adb7485f3e445f85eede7990
 =======
 >>>>>>> d574e4c8834c7336adb7485f3e445f85eede7990
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
@@ -12,7 +15,11 @@
 
 <script src="../scripts/jcartview.js"></script>
 <<<<<<< HEAD
+<<<<<<< HEAD
 <script src="../scripts/forAll.js"></script>
+=======
+
+>>>>>>> d574e4c8834c7336adb7485f3e445f85eede7990
 =======
 
 >>>>>>> d574e4c8834c7336adb7485f3e445f85eede7990
@@ -22,7 +29,11 @@
 <style type="text/css">
 <!--
 <<<<<<< HEAD
+<<<<<<< HEAD
 
+=======
+ 
+>>>>>>> d574e4c8834c7336adb7485f3e445f85eede7990
 =======
  
 >>>>>>> d574e4c8834c7336adb7485f3e445f85eede7990
@@ -31,6 +42,7 @@
 </head>
 
 <body>
+<<<<<<< HEAD
 <<<<<<< HEAD
  <?php
 	require "../cart/update_chart.php";
@@ -59,6 +71,8 @@ were not only happening in the united state but also South America, Europe and t
 	?>
    
 =======
+=======
+>>>>>>> d574e4c8834c7336adb7485f3e445f85eede7990
  
  
 	<?php
@@ -68,6 +82,9 @@ were not only happening in the united state but also South America, Europe and t
 	 
 	
  
+<<<<<<< HEAD
+>>>>>>> d574e4c8834c7336adb7485f3e445f85eede7990
+=======
 >>>>>>> d574e4c8834c7336adb7485f3e445f85eede7990
 </body>
 </html>

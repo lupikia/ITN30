@@ -6,9 +6,12 @@
 <link href="../scripts/css/bootstrap.css" rel="stylesheet" >
 =======
 <<<<<<< HEAD
+<<<<<<< HEAD
 <link href="../scripts/css/myStyle.css" rel="stylesheet">
 <link href="../scripts/css/bootstrap.css" rel="stylesheet" >
 =======
+=======
+>>>>>>> d574e4c8834c7336adb7485f3e445f85eede7990
 
 
 
@@ -16,6 +19,9 @@
 
 
 >>>>>>> fb88b2f49c59f10febcda2214ff54759507b8db9
+<<<<<<< HEAD
+>>>>>>> d574e4c8834c7336adb7485f3e445f85eede7990
+=======
 >>>>>>> d574e4c8834c7336adb7485f3e445f85eede7990
 
  
